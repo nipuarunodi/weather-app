@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nipuarunodi/weather-app/static/css/main.3b4e54f2.chunk.css",
+    "main.js": "/nipuarunodi/weather-app/static/js/main.e6b98a3c.chunk.js",
+    "main.js.map": "/nipuarunodi/weather-app/static/js/main.e6b98a3c.chunk.js.map",
+    "runtime-main.js": "/nipuarunodi/weather-app/static/js/runtime-main.651574c3.js",
+    "runtime-main.js.map": "/nipuarunodi/weather-app/static/js/runtime-main.651574c3.js.map",
+    "static/js/2.a137b545.chunk.js": "/nipuarunodi/weather-app/static/js/2.a137b545.chunk.js",
+    "static/js/2.a137b545.chunk.js.map": "/nipuarunodi/weather-app/static/js/2.a137b545.chunk.js.map",
+    "index.html": "/nipuarunodi/weather-app/index.html",
+    "static/css/main.3b4e54f2.chunk.css.map": "/nipuarunodi/weather-app/static/css/main.3b4e54f2.chunk.css.map",
+    "static/js/2.a137b545.chunk.js.LICENSE.txt": "/nipuarunodi/weather-app/static/js/2.a137b545.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.651574c3.js",
+    "static/js/2.a137b545.chunk.js",
+    "static/css/main.3b4e54f2.chunk.css",
+    "static/js/main.e6b98a3c.chunk.js"
+  ]
+}
